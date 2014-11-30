@@ -1,0 +1,8 @@
+---
+layout: post
+title: test w jekyll
+---
+
+h1. {{ page.title }}
+
+This is my first test post using jekyll
