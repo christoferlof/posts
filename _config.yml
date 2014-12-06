@@ -1,6 +1,6 @@
 # Build settings
 markdown: redcarpet
-highlighter: pygments
+highlighter: false
 
 # Site settings
 title: "Christofer Löf"
