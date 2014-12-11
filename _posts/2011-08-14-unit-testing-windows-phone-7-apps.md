@@ -25,7 +25,7 @@ In order to create an abstraction layer I need to change the type of the members
 
 The base implementation of the ListFactory will return instances of `List<T>` , which satisfies the above contract and is available on all targeted platforms. All I need to do is to make sure that the factory is instantiated before the tests run. In the phone project I add a new factory class which derives from the ListFactory base class and overrides the CreateList method in order to return an instance of ObservableCollection instead. The ObservableListFactory is instantiated once in my phone project’s App class and it will hold a reference to itself thru theCurrent property. With this approach I will be provided a list implementation that’s compatible with the current execution context.
 
-> I can finally throw away my home brewed unit test fx - Christofer Löf
+<blockquote><p>I can finally throw away my home brewed unit test fx</p> &mdash; Christofer Löf</blockquote>
 
 ## Wrapping it up
 Splitting up your Windows Phone app in two projects – the phone app project and a portable library project – should be your pattern of choice if you want to unit test your implementation.
