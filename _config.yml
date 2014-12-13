@@ -4,7 +4,7 @@ highlighter: false
 
 # Site settings
 title: "Christofer Löf"
-description: "description goes here"
+description: "Solution Architect, Hobby App Developer, Father, "
 
 email: "christofer.lof@gmail.com"
 #blog logo
@@ -16,7 +16,7 @@ name: 'Christofer Löf'
 author: 'Christofer Löf'
 author_image: "/assets/images/ChristoferLof_2014.jpg"
 
-paginate:	5
+paginate: 5
 
 url: "http://christoferlof.github.io" # the base hostname & protocol for your site
 baseurl: ""
@@ -30,12 +30,12 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: //www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+  - icon:	facebook
+    url:
+    desc: 
+    share_url: //www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
 
   - icon:	github
     url:	https://github.com/christoferlof
