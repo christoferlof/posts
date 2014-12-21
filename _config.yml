@@ -4,13 +4,13 @@ highlighter: false
 
 # Site settings
 title: "Christofer Löf"
-description: "Solution Architect, Hobby App Developer, Father, "
+description: "Solution Architect, Hobby App Developer, Motorbiker, Father"
 
 email: "christofer.lof@gmail.com"
 #blog logo
 logo: "/assets/images/ChristoferLof_2014.jpg"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/hero.jpg"
 
 name: 'Christofer Löf'
 author: 'Christofer Löf'
