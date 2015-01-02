@@ -19,5 +19,5 @@ Below is a list of excellent resources, created by teams at Microsoft based on r
 * [Disaster Recovery and High Availability for Azure Applications](http://msdn.microsoft.com/library/azure/dn251004.aspx)
 * [Microsoft Azure Trust Center](http://azure.microsoft.com/en-gb/support/trust-center/security/)
 * [Infographics](http://azure.microsoft.com/en-us/documentation/infographics/azure/)
-* [Architecture Blueprints](http://msdn.microsoft.com/dn630664)
+* [Architecture Blueprints](http://msdn.microsoft.com/dn630664) (Where above image is found)
 
