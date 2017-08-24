@@ -3,8 +3,8 @@ markdown: redcarpet
 highlighter: false
 
 # Site settings
-title: "Christofer Löf"
-description: "Building products for Flightradar24"
+title: "Hi, I'm Christofer Löf"
+description: "I'm Building products for Flightradar24, coding the Cloud and explore trails by bike"
 
 email: "christofer@lof.io"
 #blog logo
