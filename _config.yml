@@ -4,9 +4,9 @@ highlighter: false
 
 # Site settings
 title: "Christofer Löf"
-description: "Solution Architect, Hobby App Developer, Motorbiker, Father"
+description: "Building products for Flightradar24"
 
-email: "christofer.lof@gmail.com"
+email: "christofer@lof.io"
 #blog logo
 logo: "/assets/images/ChristoferLof_2014.jpg"
 # blog cover
@@ -16,7 +16,7 @@ name: 'Christofer Löf'
 author: 'Christofer Löf'
 author_image: "/assets/images/ChristoferLof_2014.jpg"
 
-paginate: 5
+paginate: 10
 
 url: "http://christofer.lof.io" # the base hostname & protocol for your site
 baseurl: ""
