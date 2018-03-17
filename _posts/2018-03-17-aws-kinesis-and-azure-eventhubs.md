@@ -72,6 +72,7 @@ Both Kinesis Data Streams and Azure Event Hubs are designed to handle insanely l
 |-|---------|--------|
 | Event Hubs | 1MB/s | 2MB/s |
 | Kinesis Data Streams | 1MB/s | 2MB/s|
+
 (per scale unit)
 
 Per default, Azure allows you to provision up to 20 throughput units (additional available after contacting support or in the dedicated tier). Using the _inflate_ feature, Event Hubs can autoscale the number of throughput units based on actual load.
