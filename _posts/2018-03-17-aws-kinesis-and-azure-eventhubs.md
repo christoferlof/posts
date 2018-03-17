@@ -67,6 +67,7 @@ Kinesis Firehose is the simpler option, if you just want to drop stuff into AWS 
 
 #### Throughput
 Both Kinesis Data Streams and Azure Event Hubs are designed to handle insanely large numbers of events but it's up to you to provision enough capacity according to your needs. Both services offers scale units which comes with a given throughput. Kinesis Data Streams calls this _shards_ while Event Hubs refers to it as _throughput units_. Both offer 1MB/s ingress and 2MB/s egress per scale unit.
+
 | | Ingress | Egress |
 |-|---------|--------|
 | Event Hubs | 1MB/s | 2MB/s |
@@ -116,6 +117,7 @@ If implemented correct, this is an area where you can differentiate from your co
 AWS Kinesis Analytics and Azure Stream Analytics allow you to query the event stream using familiar SQL syntax. Select from the input stream and deliver the result to an output stream or another type of target. As you can see below, Azure Stream Analytics contains more built-in output types compared to AWS Kinesis Analysis which might cut development time for certain scenarios.
 
 #### Inputs
+
 | AWS Kinesis Analytics | Azure Stream Analytics |
 |-----------------------|------------------------|
 | Kinesis Data Streams  | Event Hubs             |
@@ -123,6 +125,7 @@ AWS Kinesis Analytics and Azure Stream Analytics allow you to query the event st
 |                       | Blob Storage           |
 
 #### Outputs
+
 | AWS Kinesis Analytics | Azure Stream Analytics |
 |-----------------------|------------------------|
 | Kinesis Data Streams  | Event Hubs             |
