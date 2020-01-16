@@ -1,5 +1,5 @@
 # Build settings
-markdown: GFM
+markdown: kramdown
 
 # Site settings
 title: "Hi, I'm Christofer Löf"
