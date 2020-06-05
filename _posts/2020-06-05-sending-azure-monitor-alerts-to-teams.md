@@ -58,6 +58,6 @@ The last step is to setup your alert and select the newly created Alert group as
 }
 ```
 
-The above json payload will create something simlar to above in your Teams channel
+The above json payload will create something simlar to below in your Teams channel
 
 ![Azure Monitor Alert in Teams](/assets/article_images/teams-alert.png)
