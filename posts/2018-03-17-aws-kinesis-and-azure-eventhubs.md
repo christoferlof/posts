@@ -3,6 +3,7 @@ title: A closer look at data streaming capabilities of Amazon Kinesis and Azure 
 layout: post
 tags: analytics, architecture
 excerpt: Microsoft Azure and Amazon Web Services both offer capabilities in the area of management and analytics on streaming data. In this post I'm looking a bit closer at how Azure Event Hubs and Azure Stream Analytics stack up against AWS Kinesis Firehose, Kinesis Data Streams and Kinesis Data Analytics.
+publish date: 2018-03-17
 ---
 # A closer look at data streaming capabilities of Amazon Kinesis and Azure Event Hubs
 

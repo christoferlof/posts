@@ -2,6 +2,7 @@
 title: Windows Phone 7 Testing Extravaganza!
 layout: post
 tags: testing, winphone
+publish date: 2010-11-06
 ---
 # Windows Phone 7 Testing Extravaganza!
 

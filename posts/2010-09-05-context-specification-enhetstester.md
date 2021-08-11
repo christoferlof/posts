@@ -3,6 +3,7 @@ title: Context/Specification enhetstester
 layout: post
 tags: agile, testing, swedish
 excerpt: Context/Specification är en alternativ stil att skriva enhetstester enligt. Tycker du att ni har enhetstester som är komplexa eller svåra att underhålla av andra anledningar? Då kan Context/Specification stilen vara ett bra verktyg i arbetet med att reda ut situationen.
+publish date: 2010-09-05
 ---
 # Context/Specification enhetstester
 

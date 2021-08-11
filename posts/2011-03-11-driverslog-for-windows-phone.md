@@ -2,6 +2,7 @@
 title: Driver's log for Windows Phone
 layout: post
 tags: winphone, app
+publish date: 2011-03-11
 ---
 # Driver's log for Windows Phone
 

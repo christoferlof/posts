@@ -3,6 +3,7 @@ title: Unit testing Windows Phone 7 apps
 layout: post
 tags: testing, winphone
 excerpt: Unit testing your apps can help you ensure that you didn't break anything between versions.
+publish date: 2011-08-14
 ---
 # Unit testing Windows Phone 7 apps
 

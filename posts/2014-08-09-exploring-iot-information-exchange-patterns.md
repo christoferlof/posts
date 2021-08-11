@@ -2,6 +2,7 @@
 title: Exploring IoT information exchange patterns with Azure Service Bus and Gadgeteer
 layout: post
 tags: iot, patterns
+publish date: 2014-08-09
 ---
 # Exploring IoT information exchange patterns with Azure Service Bus and Gadgeteer
 

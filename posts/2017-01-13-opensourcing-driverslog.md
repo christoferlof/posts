@@ -2,6 +2,7 @@
 title: Open sourcing Driver's Log for Windows Phone 7
 layout: post
 tags: winphone
+publish date: 2017-01-13
 ---
 # Open sourcing Driver's Log for Windows Phone 7
 

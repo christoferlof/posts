@@ -3,6 +3,7 @@ title: Azure Architecture Guidance
 layout: post
 tags: architecture
 image: /assets/azure-architecture-guidance/blueprintbg.jpg
+publish date: 2015-01-02
 ---
 # Azure Architecture Guidance
 

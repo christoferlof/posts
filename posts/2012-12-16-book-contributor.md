@@ -4,6 +4,7 @@ layout: post
 tags: agile
 image: /assets/2012-12-16-book-contributor/book-contributor.png
 excerpt: Earlier this year I had the pleasure to contribute content to a book on Scrum with Visual Studio
+publish date: 2012-12-16
 ---
 # Book Contributor
 

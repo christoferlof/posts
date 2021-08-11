@@ -2,6 +2,7 @@
 title: Driver's log celebrates three years
 layout: post
 tags: winphone, app
+publish date: 2014-01-15
 ---
 # Driver's log celebrates three years
 

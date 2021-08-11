@@ -2,6 +2,7 @@
 title: Continuous Delivery is not just automated deployments
 layout: post
 tags: rant
+publish date: 2012-12-12
 ---
 # Continuous Delivery is not just automated deployments
 

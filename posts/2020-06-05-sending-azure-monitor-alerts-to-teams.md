@@ -3,6 +3,7 @@ title: Sending Azure Monitor alerts to Microsoft Teams
 layout: post
 tags: azure
 excerpt: Leveraging Microsoft Teams as a target for Azure Monitor alerts is an easy and efficient approach in handling issues in your Azure solutions
+publish date: 2020-06-05
 ---
 # Sending Azure Monitor alerts to Microsoft Teams
 

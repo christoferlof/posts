@@ -3,6 +3,7 @@ title: Querying AKS pod perf counters by Kubernetes namespace in Azure Log Analy
 layout: post
 tags: azure
 excerpt: If you're using Azure Kubernetes Service (AKS), chances are you've also setup Azure Monitor to understand the performance and health of your Kubernetes cluster and the container workloads. Learn how to query perf counters for a pod filtering by namespace
+publish date: 2020-06-10
 ---
 # Querying AKS pod perf counters by Kubernetes namespace in Azure Log Analytics
 
