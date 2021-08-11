@@ -20,8 +20,9 @@ public void ServiceReturnsFoo() {
    Assert.AreEqual(expected,actual);
 }
 ```
+
 Nu och då träffar jag utvecklare som anser enhetstester bidrar till fler problem istället för att avhjälpa eller förhindra dem.
- 
+
 > Testerna går sönder för lätt när systemet under test förändras. När vi skall reparera testerna vet ingen riktigt vad de faktiskt testar - testerna är för komplexa. Eftersom vi inte riktigt förstår testerna så litar vi inte på dem. Ibland är allt grönt, ibland är det lite "halvgrönt". Skall vi lyckas med enhetstester känns det som vi behöver tester som testar testerna.
 
 I takt med att antalet tester ökar ökar också kraven på att testerna är minst lika underhållsvänliga och läsbara som den kod de avser att testa.
@@ -152,6 +153,7 @@ public class when_validating_contact : ContextSpecification {
    }
 }
 ```
+
 Ordet *specification* används istället för *test* för att skapa en tydligare upplevelse av ett det är exekverbara specifikationer som skapas. Själv ser jag en klar fördel med att åtminstone använda ett språk i namngivning av *contexts* och *specifications* som ligger så nära som möjligt det språk som används av kunden i ursprunglig kravställning. Man tenderar då få tester (specifikationer) som tydliggör varför klasser finns och hur deras beteende associerar till kundens önskemål. Att gruppera testfallen efter *feature* eller *user story* kan stärka spårbarheten ytterligare.
 
 `[Pass] When_validating_contact+with_empty_name.should_not_be_valid` är enligt min mening ett mer tydligt testresultat än `[Pass] BazTest`. Kanske förstår också din kund vad som faktiskt fungerar av det hon efterfrågar.
