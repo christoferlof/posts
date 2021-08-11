@@ -3,6 +3,8 @@ title: Portable Class Library and ICommand
 layout: post
 tags: testing, winphone
 ---
+# Portable Class Library and ICommand
+
 A while ago I [wrote an article]({% post_url 2011-08-14-unit-testing-windows-phone-7-apps %}) describing how the [Portable Class Library](https://visualstudiogallery.msdn.microsoft.com/b0e0b5e9-e138-410b-ad10-00cb3caf4981) can enable us to write Unit Tests for our Windows Phone apps using the tools and frameworks we’re already familiar with. By adding an abstraction layer and using types common to the Base Class Library, Portable Class Library and Windows Phone we can write unit tests using tools like MSTest and Moq.
 
 ## ViewModels and ICommand

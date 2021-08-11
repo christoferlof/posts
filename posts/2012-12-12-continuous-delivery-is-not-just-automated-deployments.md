@@ -3,6 +3,8 @@ title: Continuous Delivery is not just automated deployments
 layout: post
 tags: rant
 ---
+# Continuous Delivery is not just automated deployments
+
 The Continuous Delivery wave seems to be what people are trying to surf these days.
 I'm a bit worried though when I see posts and articles, especially from the Microsoft Community, where people claim they do Continuous Delivery when in fact the only thing they achieved is an automated deployment triggered by a check-in.
 

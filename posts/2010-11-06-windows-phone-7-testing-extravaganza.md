@@ -3,6 +3,8 @@ title: Windows Phone 7 Testing Extravaganza!
 layout: post
 tags: testing, winphone
 ---
+# Windows Phone 7 Testing Extravaganza!
+
 During my parental leave this summer I had some moments which I could spend on coding-for-fun. Like a whole lot of others these days I began to write a couple of Windows Phone 7 apps. Among the first things I looked into was the availability of testing frameworks especially suited for Windows Phone development. Back then I found one – the silverlight toolkit unit testing framework. It’s an impressive piece of work. But in my humble opinion it lacks, currently, two major features. The first feature is; execute unit test outside of the emulator or the device i.e. on your computer.
 
 For a TDD style of development having to deploy to the emulator to execute one test just eats too much of my precious time. I’ve understood that the APIs of the Silverlight Unit Test Framework are compatible with the VSTest APIs so linking files between projects would probably be one way to execute the tests on the development machine. But that would force me to create shadow projects to link files and execute the tests outside from the Silverlight runtime – I don’t want that. The second feature I believe the Silverlight Testing Framework is lacking, which I really thought was there, is support for UI tests. So. When you’re a guy who likes to write frameworks and has some spare time. What do you do? You roll your own testing framework of course!

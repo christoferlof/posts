@@ -4,6 +4,8 @@ layout: post
 tags: architecture
 image: /assets/azure-architecture-guidance/blueprintbg.jpg
 ---
+# Azure Architecture Guidance
+
 Customers often ask about best practices and blueprints on how to build solutions for the cloud (on Microsoft Azure in particular). These days things evolve at a pace never seen before why developing reference architectures may be a very costly thing - once it's done it may be obsolete if it's produced with too much detail and too low level of abstraction. 
 
 Instead I recommend to re-use IP already available (and being maintained) and also to rely on principles and patterns instead of implementation details.
@@ -19,5 +21,4 @@ Below is a list of excellent resources, created by teams at Microsoft based on r
 * [Disaster Recovery and High Availability for Azure Applications](http://msdn.microsoft.com/library/azure/dn251004.aspx)
 * [Microsoft Azure Trust Center](http://azure.microsoft.com/en-gb/support/trust-center/security/)
 * [Infographics](http://azure.microsoft.com/en-us/documentation/infographics/azure/)
-* [Architecture Blueprints](http://msdn.microsoft.com/dn630664) (Where above image is found)
-
+* [Architecture Blueprints](http://msdn.microsoft.com/dn630664)

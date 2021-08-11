@@ -3,6 +3,8 @@ title: Driver's log for Windows Phone
 layout: post
 tags: winphone, app
 ---
+# Driver's log for Windows Phone
+
 As a consultant I travel quite a lot by car. By the end of every month I need to fill in our corporate Excel spreadsheet with my mileage and send it to payroll in order to get reimbursed.
 
 When I received by HTC Mozart a couple of weeks ago I immediately felt the urge to develop for it and get to know the platform. So I thought for myself – why not smash two birds with the same stone and learn something while I build something that I need?
